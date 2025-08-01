@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kanishka Singh</h1>
-<h3 align="center">A passionate frontend developer from India. Coding🎨 my way through art and design!</h3>
+<h3 align="center"> Where others see numbers, I see narratives.</h3>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kanishka-14&label=Profile%20views&color=0e75b6&style=flat" alt="kanishka-14" /> </p>
 
-<h1 align="center">Hi there, I'm Kanishka Singh 👋</h1>
 
 <p align="center">
   🧠 Data Whisperer | 📊 Insight Architect | 🚀 Analytics Enthusiast  
